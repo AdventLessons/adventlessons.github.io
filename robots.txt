@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://adventlessons.adventhymnals.org/sitemap.xml
